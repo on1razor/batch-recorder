@@ -9,6 +9,7 @@ Install
 Edit .bat file: 
 1. name
 2. token (if you used youtube recorder)
+
 Run bat file
 
 P.S. To prevent recordings from interfering with you, create a new desktop 2 in Windows 10 and run the scripts directly there
