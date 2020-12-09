@@ -7,7 +7,7 @@ set DATE_TIME=%DATE_TIME: =0%
 set /A clock=%RANDOM% %% 60 + 1
 set clock=%clock: =0%
 Echo on
-youtube-d -r 3M --download-archive dl.txt --playlist-end 1 --hls-use-mpegts --no-part https://www.twitch.tv/%name% -o %name%_%DATE_TIME%.ts
+youtube-dl -r 3M --download-archive dl.txt --playlist-end 1 --hls-use-mpegts --no-part https://www.twitch.tv/%name% -o %name%_%DATE_TIME%.ts
 
 timeout /t %clock%
 goto loop
