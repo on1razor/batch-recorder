@@ -1,0 +1,1 @@
+for /f %%G in ('dir /b *.ts') do ffmpeg -i "%%G" -c copy "%%~nG.mp4" && del /f/q "%%~nG.ts"
