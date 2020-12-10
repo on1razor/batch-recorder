@@ -10,7 +10,7 @@ Edit .bat file:
 1. name  (for twitch the token is the name in the address bar)
 ![alt tag](https://i.ibb.co/wWpTjHx/token.jpg "token")​
 2. token (if you used youtube recorder)
-![alt tag](https://i.ibb.co/fkvrtKF/Capture.jpg "token")​
+![alt tag](https://i.ibb.co/wzFMkKn/token-2.jpg "token")​
 
 Run bat file
 
