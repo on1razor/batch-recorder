@@ -9,6 +9,7 @@ Install
 Edit .bat file: 
 1. name
 2. token (if you used youtube recorder)
+![alt tag](https://i.ibb.co/fkvrtKF/Capture.jpg "token")​
 
 Run bat file
 
