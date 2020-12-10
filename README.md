@@ -7,7 +7,8 @@ Install
 3. ffmpeg (if you need convert file)
 
 Edit .bat file: 
-1. name
+1. name  (for twitch the token is the name in the address bar)
+![alt tag](https://i.ibb.co/wWpTjHx/token.jpg "token")​
 2. token (if you used youtube recorder)
 ![alt tag](https://i.ibb.co/fkvrtKF/Capture.jpg "token")​
 
