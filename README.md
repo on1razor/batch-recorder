@@ -14,4 +14,6 @@ Edit .bat file:
 
 Run bat file
 
-P.S. To prevent recordings from interfering with you, create a new desktop 2 in Windows 10 and run the scripts directly there
+P.S. 
+1. For recording, it is still better to use streamlink, especially for twitch, as there is ad skipping.
+2. To prevent recordings from interfering with you, create a new desktop 2 in Windows 10 and run the scripts directly there
