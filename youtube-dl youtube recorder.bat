@@ -3,6 +3,7 @@
 set name=%NASASpaceflight
 set token=%UCSUu1lih2RifWkKtDOJdsBA
 set DATE_TIME=%DATE:~6,4%-%DATE:~3,2%-%DATE:~0,2%_%TIME:~0,2%-%TIME:~3,2%-%TIME:~6,2%
+set DATE_TIME=%DATE_TIME: =0%
 set /A clock=%RANDOM% %% 80 + 1
 set clock=%clock: =0%
 Echo on
