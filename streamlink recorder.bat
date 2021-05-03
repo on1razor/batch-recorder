@@ -1,7 +1,6 @@
 :loop
 @echo off
 set name=%shroud
-set name=%name: =0%
 echo on
 streamlink --twitch-disable-ads --hls-segment-threads 5 --retry-streams 40 -o "%name%.ts" https://www.twitch.tv/%name% best
 @echo off
